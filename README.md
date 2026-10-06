@@ -1,5 +1,4 @@
-[README.md](https://github.com/user-attachments/files/33078912/README.md)
-[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=DrPaulValle/Practica1GD)
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=tigremiau/MMP1)
 
 # Práctica 1 — Modelado matemático del sistema presa–depredador de Lotka–Volterra
 

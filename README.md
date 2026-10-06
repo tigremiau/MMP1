@@ -13,6 +13,8 @@ El caso de estudio utiliza el sistema clásico de **Lotka–Volterra** para repr
 **Asignatura:** Modelado Matemático  
 **Programa:** Maestría en Ciencias de la Ingeniería
 
+**Alumna:** Laura Yesenia Alarcón Garvalena  16041206  16041206@itdurango.edu.mx
+
 ---
 
 <a id="contenido"></a>
